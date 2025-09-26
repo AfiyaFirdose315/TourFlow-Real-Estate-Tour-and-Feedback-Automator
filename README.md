@@ -20,6 +20,7 @@ Salesforce Platform: The core business application platform.
 
 Salesforce Flow: The low-code automation tool used to create all the business logic, including email reminders and data updates.
 
-Lightning Web Components (LWC): The modern JavaScript framework used to build custom UI components like the Tour Calendar and Dashboard.
-
 Apex: Salesforce's backend programming language, used to retrieve and save data for the LWC components.
+
+#DEMO VIDEO LINK OF THE PROJECT
+https://drive.google.com/file/d/1bDNWI4WSw_9ti6-IJuTdtYaipUDfAQSw/view?usp=drive_link
